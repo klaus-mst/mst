@@ -21,7 +21,6 @@ Usage:
     solc --standard-json input.json | python3 mst_ir_analyzer_ast_v0_4.py
 
 Reference: DeFi paper v1.0 §7
-Author: Hai Hai Fu (Haihai) — Version: v0.4
 """
 
 from __future__ import annotations
