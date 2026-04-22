@@ -3,7 +3,6 @@
 MST-IR Benchmark Suite v2
 ==========================
 14-case benchmark protocol for mst_ir_analyzer_ast_v0_4.py
-Klaus-confirmed matrix 2026-04-21
 
 Positive set (P1-P8): must fire primary detection
 Negative set (N1-N5): must NOT fire primary detection  
