@@ -2,8 +2,6 @@
 
 **A Structural Class, a Subclass Theorem, and Static Detection**
 
-Submitted to CCS '26 · Under review
-
 ---
 
 ## Overview
@@ -28,7 +26,7 @@ All existing auditing tools (formal verification, fuzzing, manual review) verify
 
 | File | Description |
 |---|---|
-| `mst-ir-defi-iterative-drift-v0.7.pdf` | Submitted paper |
+| `mst-ir-defi-iterative-drift-v0.7.pdf` | Paper |
 | `artifacts/mst_ir_analyzer_ast_v0_4.py` | AST-based static analyzer (Python 3.9+, solc required) |
 | `artifacts/mst_ir_benchmark.py` | 14-case benchmark suite |
 
